@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# EasyM2M — Company Website (Frontend)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Responsive B2B marketing website built for **EasyM2M Technologies Pvt. Ltd.**, a Bangalore-based Industrial IoT startup building wireless safety wearables for underground and open-cast mines.
 
-## Available Scripts
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-In the project directory, you can run:
+**[Live Demo →](https://easy-m2-m.vercel.app/)**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About the Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This is the public-facing marketing website for EasyM2M Technologies — a startup that makes the **SmartKavach**, an industrially designed, rugged, waterproof IoT wearable with SIM, WiFi, and BLE connectivity for miner safety monitoring.
 
-### `npm test`
+The site communicates EasyM2M's product offering to enterprise clients in the mining and industrial sectors.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> **Note:** This is a frontend-only project built for an external client. The website represents EasyM2M's brand and product — I built the frontend implementation.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## What I Built
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Fully responsive layout built with modern CSS (Flexbox, CSS Grid) and semantic HTML5
+- Mobile-first responsive breakpoints across mobile, tablet, and desktop
+- Structured navigation with clear product and service sections
+- Optimised image loading and asset delivery
+- Clear call-to-action layouts targeted at B2B enterprise buyers
+- Cross-browser compatibility across Chrome, Firefox, Safari, and Edge
+- Deployed via Vercel with CI/CD from GitHub
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## About EasyM2M Technologies
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+EasyM2M Technologies Pvt. Ltd. (Bangalore, India) builds wireless M2M/IoT systems for industrial safety:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **SmartKavach** — wearable IoT device for miner health and location monitoring
+- Real-time gas sensor monitoring without mobile or GPS signal
+- Wireless health monitoring and automated alerting
+- Vehicle tracking, asset tracking, geo-fencing for mining operations
+- Founded by engineers with 15–18 years experience at Lucent, Aricent, and EGMP (IIM-L)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Tech Stack
 
-## Learn More
+| | |
+|---|---|
+| Layout | Flexbox, CSS Grid |
+| Markup | Semantic HTML5 |
+| Interactivity | JavaScript (ES6+), React.js |
+| Responsive | Mobile-first breakpoints |
+| Deployment | Vercel |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Local Setup
 
-### Code Splitting
+```bash
+git clone https://github.com/kislayrajj/EasyM2M.git
+cd EasyM2M
+npm install
+npm run dev
+```
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Team
 
-### Analyzing the Bundle Size
+Built in collaboration with a team of two as a freelance frontend project for EasyM2M Technologies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Kislay Raj** — [GitHub](https://github.com/kislayrajj) · Frontend development, responsive layout, component structure, deployment
 
-### Making a Progressive Web App
+**Harsh Kumar Sharma** — [GitHub](https://github.com/harshsharma-x)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Kislay Raj** — [LinkedIn](https://www.linkedin.com/in/kislay-raj-b462502a6/) · [Portfolio](https://portfolio-w-react.vercel.app/) · [GitHub](https://github.com/kislayrajj)
